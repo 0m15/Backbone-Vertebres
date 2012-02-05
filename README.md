@@ -1,9 +1,9 @@
-                     __        ___.                         
-___  __ ____________/  |_  ____\_ |_________   ____   ______
-\  \/ // __ \_  __ \   __\/ __ \| __ \_  __ \_/ __ \ /  ___/
- \   /\  ___/|  | \/|  | \  ___/| \_\ \  | \/\  ___/ \___ \ 
-  \_/  \___  >__|   |__|  \___  >___  /__|    \___  >____  >
-           \/                 \/    \/            \/     \/ 
+                         __        ___.                         
+    ___  __ ____________/  |_  ____\_ |_________   ____   ______
+    \  \/ // __ \_  __ \   __\/ __ \| __ \_  __ \_/ __ \ /  ___/
+     \   /\  ___/|  | \/|  | \  ___/| \_\ \  | \/\  ___/ \___ \ 
+      \_/  \___  >__|   |__|  \___  >___  /__|    \___  >____  >
+               \/                 \/    \/            \/     \/ 
 
 
 What's inside
@@ -15,11 +15,11 @@ Backbone.DialogView
 An extensible, reusable, customizable dialog view
 built on top of Twitter bootstrap modals plugin.
 
-#requirements
+##requirements
 - jQuery >= 1.7.1
 - Bootstrap modal plugin
 
-#options
+##options
 `customClass`   `String`    A custom class to be attached to the DOM
 `title`         `String`    The dialog title
 `message`       `String`    The dialog message
