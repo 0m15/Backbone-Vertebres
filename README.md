@@ -21,10 +21,10 @@ built on top of Twitter bootstrap modals plugin.
   </tr>
   <tr>
     <td>
-      `customClass`    
+      <code>customClass</code>    
     </td>
     <td>
-      `String`
+      <code>String</code>
     </td>
     <td>
       A custom class to be attached to the DOM
@@ -32,10 +32,10 @@ built on top of Twitter bootstrap modals plugin.
   </tr>
   <tr>
     <td>
-      `title`    
+      <code>title</code>    
     </td>
     <td>
-      `String`
+      <code>String</code>
     </td>
     <td>
       The dialog title
@@ -44,10 +44,10 @@ built on top of Twitter bootstrap modals plugin.
   
   <tr>
     <td>
-      `message`    
+      <code>message</code>    
     </td>
     <td>
-      `String`
+      <code>String</code>
     </td>
     <td>
       The dialog message
@@ -56,10 +56,10 @@ built on top of Twitter bootstrap modals plugin.
   
   <tr>
     <td>
-      `buttons`     
+      <code>buttons</code>     
     </td>
     <td>
-      `Array`
+      <code>Array</code>
     </td>
     <td>
       An array holding buttons that fires callbacks
@@ -67,10 +67,10 @@ built on top of Twitter bootstrap modals plugin.
   </tr>
   <tr>
     <td>
-      `onAction`    
+      <code>onAction</code>    
     </td>
     <td>
-      `Function`
+      <code>Function</code>
     </td>
     <td>
       Callback invoked when user click buttons. It passes the event object
