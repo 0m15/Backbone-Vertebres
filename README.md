@@ -83,7 +83,7 @@ built on top of Twitter bootstrap modals plugin.
     }
   
 ###example
-    var dialog = quipu.ui.DialogView.show('title', {
+    var dialog = DialogView.show('title', {
       onAction : function(ev) {
         console.log(ev.currentTarget.className)
       }
