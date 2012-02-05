@@ -78,16 +78,16 @@ built on top of Twitter bootstrap modals plugin.
   </tr>
 </table>
 
-  var options = {
-    buttons : [{'label' : 'ok', 'class' : 'primary'}]
-  }
+    var options = {
+      buttons : [{'label' : 'ok', 'class' : 'primary'}]
+    }
   
 ###example
-  var dialog = quipu.ui.DialogView.show('title', {
-    onAction : function(ev) {
-      console.log(ev.currentTarget.className)
-    }
-  })
-  dialog.title('reset the title')
-  dialog.message('reset the message')
-  dialog.close() // close the dialog
+    var dialog = quipu.ui.DialogView.show('title', {
+      onAction : function(ev) {
+        console.log(ev.currentTarget.className)
+      }
+    })
+    dialog.title('reset the title')
+    dialog.message('reset the message')
+    dialog.close() // close the dialog
