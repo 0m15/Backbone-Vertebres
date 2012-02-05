@@ -1,7 +1,6 @@
 #Backbone Vertebres
 
-What's inside
-==================================================
+##What's inside
 
 Backbone.DialogView
 --------------------------------------------------
