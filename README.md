@@ -3,7 +3,7 @@ Backbone Vertebres
 
 Includes the following ui patterns:
 
-Backbone.DialogView
+DialogView
 --------------------------------------------------
 An extensible, reusable, customizable dialog view
 built on top of Twitter bootstrap modals plugin.
